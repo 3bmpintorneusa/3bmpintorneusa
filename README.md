@@ -1,27 +1,9 @@
-## Meu perfil 😄👋
-Meu nome é Maria Clara Pintor
+Meu nome é Maria Clara, tenho 17 anos
 
-Estou estudando na Alura
+Atualmente trabalho com marketing no instagram de um atelie de estética
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou aprendendo programação na escola, com o professor Pedro Paulo
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Eu gosto de dormir e meditar
 
-## Você pode entrar em contato comigo 📫
-0001097062685sp@al.educacao.gov.br
-
-@3bmpintorneusa
-<!--
-**3bmpintorneusa/3bmpintorneusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRsefNcfA8H3ePSstuEJt11q2h65C1C-Dnlw&s)
